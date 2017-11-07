@@ -1,5 +1,5 @@
-# *Network modelling for high-dimensional data*-course
-This repository contains the introductory slides and the materials, slides and practical, for the course part related to time-course experiments. The practical requires the installation of several R-packages. In particular the **ragt2ridges** package, which implements most of the discussed methodology.
+## *Network modelling for high-dimensional data*-course
+This repository contains the introductory slides and the materials, slides and practical, for the course part related to time-course experiments. The practical requires the installation of several R-packages. In particular the ```ragt2ridges``` package, which implements most of the discussed methodology.
 
 Materials:
 
