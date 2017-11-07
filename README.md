@@ -3,8 +3,8 @@ This repository contains the introductory slides and the materials, slides and p
 
 Materials:
 
-  * ```WNvanWieringen_NetworkModelling_Intro.pdf```: Slides of introduction to network modelling.
-  * ```WNvanWieringen_NetworkModelling_TimeCourses.pdf```: Slides with exercises to network modelling for time-course omics data.
+  * ```WNvanWieringen_NetworkModelling4HDdata_Intro.pdf```: Slides of introduction to network modelling.
+  * ```WNvanWieringen_NetworkModelling4HDdata_TimeCourses.pdf```: Slides with exercises to network modelling for time-course omics data.
   * ```VARpractical.html``` : R-code, solutions and exercises with additional explanations.
   * ```VARpractical.pdf```: R-code, solutions and exercises with additional explanations (pdf-version of the former).
   * ```VARpractical_codeOnly.R```: Bare R-code from the previous two files.
