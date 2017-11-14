@@ -11,5 +11,5 @@ Materials:
 
 This repository, all materials, can be downloaded by pressing the green 'Clone or download' button and choosing 'Download ZIP'.
 
-Other materials of the course can be found at: https://github.com/CFWP/IBS.channel2017-NetworksCourse
+Other materials of the course can be found at: https://github.com/CFWP/MultiOmics-NetworksCourse
 
